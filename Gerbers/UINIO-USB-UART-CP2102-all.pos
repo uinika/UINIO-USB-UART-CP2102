@@ -1,0 +1,31 @@
+### Footprint positions - created on 2024-11-25T12:43:00+0800 ###
+### Printed by KiCad version 8.0.6
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val               Package                               PosX       PosY       Rot  Side
+J1        Conn_01x03_Pin    PinHeader_1x03_P2.54mm_Vertical    11.5800   -19.0300  -90.0000  bottom
+J3        Conn_01x06_Pin    PinHeader_1x06_P2.54mm_Vertical     9.1987    -1.4700  -90.0000  bottom
+C1        0.1uF             C_0402_1005Metric                   9.7600   -13.3700  180.0000  top
+C2        1uF               C_0402_1005Metric                   9.7600   -14.4100  180.0000  top
+C3        4.7uF             C_0402_1005Metric                   9.7600   -12.1800  180.0000  top
+C4        0.1uF             C_0402_1005Metric                   9.7600   -11.1500  180.0000  top
+D1        LESD5D5.0CT1G     D_SOD-523                           7.6300   -11.2800   90.0000  top
+D2        BLUE_LED          LED_0603_1608Metric                21.9700   -13.9200  180.0000  top
+D3        BLUE_LED          LED_0603_1608Metric                21.9700    -6.3900  180.0000  top
+D4        LED_Red           LED_0603_1608Metric                 4.4200    -1.5450  180.0000  top
+D5        LESD5D5.0CT1G     D_SOD-523                           7.6300    -9.0200  -90.0000  top
+D6        1N4007            Nexperia_CFP3_SOD-123W              5.1950   -18.6400  180.0000  top
+F1        60V_1A            Fuse_1206_3216Metric                5.2200   -16.4200  180.0000  top
+HOLE**    Hole-2mm          Hole-2mm                           -0.7000   -17.7000    0.0000  top
+HOLE**    Hole-2mm          Hole-2mm                           -0.7000    -2.6100    0.0000  top
+HOLE**    Hole-2mm          Hole-2mm                           25.7900    -2.6100    0.0000  top
+HOLE**    Hole-2mm          Hole-2mm                           25.7900   -17.7000    0.0000  top
+J2        Conn_01x05_Pin    PinHeader_1x05_P2.54mm_Vertical    29.1287   -15.2250  180.0000  top
+R2        2K                R_0603_1608Metric                  21.9700   -12.3700    0.0000  top
+R3        2K                R_0603_1608Metric                  21.9700    -7.8500    0.0000  top
+R4        2K                R_0603_1608Metric                   4.4200    -3.0100    0.0000  top
+R7        5.1K              R_0603_1608Metric                   8.2900    -4.9000  180.0000  top
+R8        5.1K              R_0603_1608Metric                   8.3000    -6.3600  180.0000  top
+U1        CP2102            QFN-28_L5.0-W5.0-P0.50-TL-EP3.3    15.1557   -10.1500    0.0000  top
+USB2      USB_Type_C_16Pin  USB-C-SMD_TYPEC-304J-BCP16          0.9810   -10.1500  -90.0000  top
+## End
