@@ -18,4 +18,5 @@
 
 [UinIO.com 电子技术实验室](http://uinio.com/) 为 UINIO-USB-UART 开源项目提供了如下一系列技术参考资料：
 
-- [《BOM 交互式物料清单与 PCB 布线在线预览》](http://uinio.com/archives/BOM/UINIO-USB-UART.html)
+- [《UINIO-DAPLink 核心板原理图》](http://uinio.com/my/works/UINIO-USB-UART-CP2102/UINIO-USB-UART-CP2102-Schematic.pdf)
+- [《交互式 BOM 物料清单与 PCB 版图在线预览》](http://uinio.com/my/works/UINIO-USB-UART-CP2102/UINIO-USB-UART-CP2102-BOM.html)
