@@ -1,6 +1,6 @@
 # UINIO-USB-UART-CP2102 串口调试器
 
-[**UINIO-USB-UART-CP2102**](https://gitee.com/uinika/UINIO-USB-UART) 是一款基于 [**美国芯科 CP2102**](https://www.silabs.com/interface/usb-bridges/classic/device.cp2102) 芯片的 **USB** 转 **UART** 的开源串口调试器，该款芯片采用 `QFN28` 封装，可以稳定支持 `921600` 波特率的 UART 串口通信。
+[**UINIO-USB-UART-CP2102**](https://gitee.com/uinika/UINIO-USB-UART-CP2102) 是一款基于 [**美国芯科 CP2102**](https://www.silabs.com/interface/usb-bridges/classic/device.cp2102) 芯片的 **USB** 转 **UART** 的开源串口调试器，该款芯片采用 `QFN28` 封装，可以稳定支持 `921600` 波特率的 UART 串口通信。
 
 ![](./Images/PCB-3D-1.png)
 
@@ -16,7 +16,7 @@
 
 ## 参考技术文档
 
-[UinIO.com 电子技术实验室](http://uinio.com/) 为 UINIO-USB-UART 开源项目提供了如下一系列技术参考资料：
+[UinIO.com 电子技术实验室](http://uinio.com/) 为 **UINIO-USB-UART-CP2102** 开源项目提供了如下一系列技术参考资料：
 
 - [《UINIO-DAPLink 核心板原理图》](http://uinio.com/my/works/UINIO-USB-UART-CP2102/UINIO-USB-UART-CP2102-Schematic.pdf)
 - [《交互式 BOM 物料清单与 PCB 版图在线预览》](http://uinio.com/my/works/UINIO-USB-UART-CP2102/UINIO-USB-UART-CP2102-BOM.html)
